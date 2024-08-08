@@ -6,7 +6,7 @@
 
 <br>
 
-# 🙋 2024.2 - Módulo 07: Sistema de manutenção preditiva com IA e arquitetura em nuvem - Turma 02 - Hospital Sírio-Libanês
+# 🙋 2024.2 - Módulo 10: Aplicações Hiperescaláveis - Turma 02 - Hospital Sírio-Libanês
 
 
 ## 🎯 O objetivo:
